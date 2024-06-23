@@ -4,7 +4,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.sivaacademy.app</groupId>
+  <groupId>com.shravya.app</groupId>
   <artifactId>my-maven-app</artifactId>
   <version>1.0-SNAPSHOT</version>
 
@@ -13,8 +13,8 @@
   <url>http://www.example.com</url>
 
   <properties>
-    <sonar.host.url>http://34.16.138.136:9000/</sonar.host.url>
-    <sonar.login>sqa_6960e2a6b8ab5e92e255441e53bdb4790db36184</sonar.login>
+    <sonar.host.url>http://34.125.11.161:9000//</sonar.host.url>
+    <sonar.login>squ_a5736412ae902d14db3573bd73b769ebfb8ea15d</sonar.login>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
